@@ -1,0 +1,5 @@
+Computer Networking#It is designed for an advanced college-level course in networks.
+Database Systems#The book describes the latest developments in relational databases.
+VLSI Systems#The book presents in-depth coverage of the modern VLSI Design.
+Operating Systems#The book helps you master the fundamental concepts of OS.
+Data Networks#It presents High-Performance Data Network Design.

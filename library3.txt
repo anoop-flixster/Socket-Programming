@@ -1,0 +1,5 @@
+Modern Operating Systems#This book offers practical information for constructing modern OS.
+Computer Architecture#It is the best-selling computer architecture book.
+Algorithm Design#The book helps you learn and design algorithms.
+Artificial Intelligence#It is a fundamental book in AI.
+Theory of Probability#The book presents the basics of the probability theory.
